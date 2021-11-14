@@ -1,4 +1,4 @@
-# COVID19-Retweet-Prediction
+# COVID19 Retweet Prediction
 
 This project was a final project for Machine Learning (2020-2021) course at Ecole Polytechnique de Paris. The aim was to reach best results in the [COVID19 Retweet Prediction Challenge](https://www.kaggle.com/c/covid19-retweet-prediction-challenge-2020/overview).
 
